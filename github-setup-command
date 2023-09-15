@@ -1,0 +1,19 @@
+
+git init
+git add
+git commit -m "initial commit"
+git remote add origin https://github.com/acanedairri/property-management.git
+git remote set-url origin https://acanedairri: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@github.com/acanedairri/property-management.git
+git push --set-upstream origin master
+
+#Token
+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
+
+
+Next Time Onward
+1. git pull
+2. git add .
+3. git commit -m "some message"
+4. git push
+
+// document
